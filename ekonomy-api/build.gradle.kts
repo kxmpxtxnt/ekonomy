@@ -1,0 +1,3 @@
+plugins {
+  `configure-maven-publish`
+}

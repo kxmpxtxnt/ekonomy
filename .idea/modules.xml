@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/ekonomy.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/ekonomy.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ekonomy-api/ekonomy.ekonomy-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ekonomy-api/ekonomy.ekonomy-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ekonomy-fabric/ekonomy.ekonomy-fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ekonomy-fabric/ekonomy.ekonomy-fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ekonomy-fabric/ekonomy.ekonomy-fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ekonomy-fabric/ekonomy.ekonomy-fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ekonomy-paper/ekonomy.ekonomy-paper.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ekonomy-paper/ekonomy.ekonomy-paper.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ekonomy-paper/ekonomy.ekonomy-paper.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ekonomy-paper/ekonomy.ekonomy-paper.test.iml" />
+    </modules>
+  </component>
+</project>
